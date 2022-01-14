@@ -1,0 +1,1 @@
+This is the official Industrial Edge Github account for sharing How Tos and Application examples
