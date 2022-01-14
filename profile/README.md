@@ -1,1 +1,0 @@
-Industrial Edge Overview website
